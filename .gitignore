@@ -1,0 +1,8 @@
+__pychache__/
+articles/
+pdfs/
+__pycache__/
+.mcp.json
+findings_prothomalo.md
+tessdata/
+models/
